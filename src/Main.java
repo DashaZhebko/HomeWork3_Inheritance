@@ -9,7 +9,7 @@ public class Main {
         catBarsik.swim(100);
         catBarsik.run(100);
 
-        System.out.println("The number of created objects is: " + Animals.counter);
+        System.out.println("The number of created objects is: " + Animal.counter);
 
     }
 }

@@ -1,9 +1,9 @@
-public class Animals {
+public class Animal {
     protected String name;
 
     static int counter = 0;
 
-    public Animals(String name) {
+    public Animal(String name) {
         counter++;
         this.name = name;
     }
